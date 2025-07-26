@@ -1,8 +1,0 @@
-{
-  "name": "Tess",
-  "description": "Sann Repository",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/CodeAxella/Cloudstream/refs/heads/builds/GANNFDS.json"
-  ]
-}
