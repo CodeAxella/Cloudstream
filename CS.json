@@ -1,0 +1,8 @@
+{
+  "name": "Tes",
+  "description": "Hindi and English",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/CodeAxella/Cloudstream/refs/heads/main/M.json"
+  ]
+}
