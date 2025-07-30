@@ -1,8 +1,0 @@
-{
-  "name": "Tes",
-  "description": "Hindi and English",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/refs/heads/builds/plugins.json"
-  ]
-}
