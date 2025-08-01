@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Funmovieslix.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "fileSize": 14417,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Funmovieslix",
+        "description": "Indonesia Source",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Funmovieslix.cs3",
+        "name": "Funmovieslix"
+    }
+]        
