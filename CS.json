@@ -1,0 +1,8 @@
+{
+  "name": "Tes Plugins",
+  "description": "Tes Repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/CodeAxella/Cloudstream/refs/heads/builds/p.json"
+  ]
+}
